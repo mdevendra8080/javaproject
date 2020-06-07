@@ -22,8 +22,8 @@
 				</sonar.host.url>
 				<sonar.login>admin</sonar.login>
 				<sonar.password>admin</sonar.password>
-				<sonar.projectKey>MVNSCAN01</sonar.projectKey>
-				<sonar.projectName>MAVENSCAN_SPRINGREST</sonar.projectName>
+				<sonar.projectKey>PROJ002</sonar.projectKey>
+				<sonar.projectName>MAVEN_SONARSCANNER</sonar.projectName>
 				<sonar.projectVersion>1.0</sonar.projectVersion>
 				<sonar.java.binaries>.</sonar.java.binaries>				
 				<sonar.java.libraries>.</sonar.java.libraries>
